@@ -10,3 +10,5 @@
 
 * Bootstrap
 * Laravel
+### Banco de Dados:
+* MySQL
